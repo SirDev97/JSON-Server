@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis elementum quam. Nam posuere, orci quis sagittis tempus, nunc velit fermentum neque, sit amet luctus urna leo ut nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum augue erat, blandit sed imperdiet ac, hendrerit vel risus. Integer vitae urna semper, tempor justo in, porttitor ligula. Sed interdum lectus mi, quis blandit nibh hendrerit id. Curabitur maximus mi eget laoreet condimentum. Nunc varius, magna dapibus consectetur consequat, metus felis pellentesque quam, sit amet rutrum tellus est id turpis.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to be a hacker",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis elementum quam. Nam posuere, orci quis sagittis tempus, nunc velit fermentum neque, sit amet luctus urna leo ut nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum augue erat, blandit sed imperdiet ac, hendrerit vel risus. Integer vitae urna semper, tempor justo in, porttitor ligula. Sed interdum lectus mi, quis blandit nibh hendrerit id. Curabitur maximus mi eget laoreet condimentum. Nunc varius, magna dapibus consectetur consequat, metus felis pellentesque quam, sit amet rutrum tellus est id turpis.",
+      "likes": 25
+    },
+    {
+      "id": 3,
+      "title": "Hack away ninjas",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis elementum quam. Nam posuere, orci quis sagittis tempus, nunc velit fermentum neque, sit amet luctus urna leo ut nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum augue erat, blandit sed imperdiet ac, hendrerit vel risus. Integer vitae urna semper, tempor justo in, porttitor ligula. Sed interdum lectus mi, quis blandit nibh hendrerit id. Curabitur maximus mi eget laoreet condimentum. Nunc varius, magna dapibus consectetur consequat, metus felis pellentesque quam, sit amet rutrum tellus est id turpis.",
+      "likes": 100
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Vue or React?",
+      "answerA": "React",
+      "answerB": "Vue"
+    }
+  ]
+}
